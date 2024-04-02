@@ -1,8 +1,8 @@
-# RealTime Chat Application with Audio and Video Calling
+# CommuneHub A RealTime Chat Application with Audio and Video Calling
 
 ## Description
 
-This project is a RealTime chat application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with WebRTC technology for enabling audio and video calling features.
+CommuneHub is a RealTime chat application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with WebRTC technology for enabling audio and video calling features.
 
 ## Features
 
@@ -29,7 +29,11 @@ This project is a RealTime chat application built using the MERN stack (MongoDB,
 
    Create a `.env` file in the root directory and add the following variables:
 
-4. Start the development server:
+PORT=5002
+MONGODB_URI=your_mongodb_uri
+SECRET_KEY=your_secret_key
+
+5. Start the development server:
 
 
 
