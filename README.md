@@ -28,6 +28,7 @@ CommuneHub is a RealTime chat application built using the MERN stack (MongoDB, E
 3. Set up environment variables:
 
    Create a `.env` file in the root directory and add the following variables:
+   
       PORT=5002
    
       MONGODB_URI=your_mongodb_uri
