@@ -1,4 +1,4 @@
-# CommuneHub A RealTime Chat Application with Audio and Video Calling
+# CommuneHub A RealTime Chat Application
 
 ## Description
 
